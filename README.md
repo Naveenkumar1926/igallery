@@ -193,9 +193,12 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![alt text](<Screenshot 2024-12-16 182654.png>)
+![Screenshot 2024-12-25 195726](https://github.com/user-attachments/assets/d8342bf8-fad4-414a-9d68-6b45ad8c66eb)
 
-![alt text](<Screenshot 2024-12-16 182709.png>)
+
+
+![Screenshot 2024-12-25 195820](https://github.com/user-attachments/assets/fc11819a-9b37-46f7-8f1b-fec009e1ff57)
+
 
 
 ## RESULT:
